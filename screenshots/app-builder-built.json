@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "XTOBE",
+      "hasCanvas": false,
+      "bodyTextLen": 658,
+      "bodyTextHash": "5c11ce7f132d49411de520e1caf802a63cc7ee571c273381ec8d2eb7da166ed5",
+      "bodyTextPrefix": "X XTOBE Universal connector Google Pixel 9 Pro 2 live Inbox Conn",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "XTOBE",
+      "hasCanvas": false,
+      "bodyTextLen": 369,
+      "bodyTextHash": "d45a52ec9e589a8d56f7448674b0d2931300d48885c87dfc8345c73bd54ae913",
+      "bodyTextPrefix": "X XTOBE Universal connector 2 live Phone All Telegram Email What",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
